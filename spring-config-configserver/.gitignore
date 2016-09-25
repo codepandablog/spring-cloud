@@ -5,3 +5,5 @@
 /mvnw
 /mvnw.cmd
 /.apt_generated/
+/.factorypath
+/.springBeans
