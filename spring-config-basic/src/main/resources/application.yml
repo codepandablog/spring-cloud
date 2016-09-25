@@ -1,2 +1,5 @@
+configuration:
+  projectName : Spring Boot COnfig
+  
 server:
   port: 8989
